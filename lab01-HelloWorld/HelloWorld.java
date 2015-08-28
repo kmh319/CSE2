@@ -1,12 +1,13 @@
 //
 //Kaitlyn Hennessy
-//kmh319
+//Lab 01
+//Hello World Java Program
 //
 //defining the class
 public class HelloWorld{
-    //main method
+    //adding the main method
     public static void main(String[] args){
-        //Message
+        //Message to display
         System.out.println("###########################");
         System.out.println("###########################");
         System.out.println("#                         #");
