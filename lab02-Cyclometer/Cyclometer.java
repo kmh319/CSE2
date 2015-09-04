@@ -33,6 +33,7 @@ public class Cyclometer{
         //Calculate the miles traveled for trip 2.
         double disTrip2=cycTwo*wheelDi*pi; //Distance in inches
         disTrip2/=inchesPerFoot*feetPerMile; //Converts the distance to miles.
+        
         double totDis= disTrip1+disTrip2; //Calculates total distance between the two trips.
         
         
