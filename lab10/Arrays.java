@@ -40,7 +40,7 @@ public class Arrays{
         System.out.println("Values greater than or equal to "+avg+":");
         for(int z=0;z<randomArray.length;z++){//Loop through the array positions.
             if(randomArray[z]>=avg){//Check if value at randomArray[z] for if it is >=avg.
-                System.out.print(randomArray[z]+"\t");//If it is, print the average.
+                System.out.print(randomArray[z]+"\t");//If it is, print the average
             }
         }
     }
